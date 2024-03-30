@@ -1,2 +1,2 @@
-# joychen.github.io
- Data Publication
+# Joychen's Github Page
+Class project - Data Publication
